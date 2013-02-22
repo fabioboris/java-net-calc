@@ -1,6 +1,6 @@
 # java-net-calc
 
-A *Java Swing* GUI utility for IPv4 networks and hosts calations.
+A *Java Swing* GUI utility for IPv4 networks and hosts calculations.
 
 *NetCalcProject* app sources from my [blog post](http://www.fabioboris.com/calculadora-para-redes-e-sub-redes-ipv4).
 
