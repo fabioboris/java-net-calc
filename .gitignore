@@ -1,0 +1,14 @@
+.DS_Store
+
+# Netbeans
+build/*
+dist/*
+nbproject/private/*
+
+# Classes
+*.class
+
+# Packages
+*.jar
+*.war
+*.ear
