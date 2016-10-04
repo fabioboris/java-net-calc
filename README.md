@@ -2,7 +2,7 @@
 
 A *Java Swing* GUI utility for IPv4 networks and hosts calculations built with [NetBeans IDE](http://netbeans.org).
 
-*NetCalcProject* app sources from my [blog post](http://www.fabioboris.com/calculadora-para-redes-e-sub-redes-ipv4).
+*NetCalcProject* app sources from my [blog post](http://fabioboris.com.br/2009/06/10/calculadora-para-redes-e-sub-redes-ipv4).
 
 ## License
 
